@@ -102,6 +102,8 @@ than with 6 layers.
 Weight Initialization: HeUniform initialization outperforms GlorotUniform initialization in terms
 of both accuracy and loss.
 
+<img width="476" alt="weights" src="https://github.com/SharathKumarReddyAlijarla/RAML/assets/122915971/694aeac9-9d47-481f-89e8-cb7d0bff987e">
+
 Architecture: The MLP architecture demonstrates superior accuracy and lower loss compared to
 CNN on the MNIST dataset. Normally, CNN is expected to perform better for image data, but the
 unexpected performance of MLP might be because of the small size of the MNIST images, which are
