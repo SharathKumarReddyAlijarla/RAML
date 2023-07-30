@@ -92,12 +92,17 @@ validation accuracy reaches its peak at 89.70 percent, while the validation loss
 0.2953. In comparison, using learning rates of 0.01 and 0.0001 yields inferior results
 
 
+<img width="263" alt="learningrate" src="https://github.com/SharathKumarReddyAlijarla/RAML/assets/122915971/3665f0d8-3772-4629-9854-64df8fdfb7e1">
+
+
 Number of Layers: In my observations, the impact of the number of layers on neural network
 performance did not exhibit a consistent pattern. The decision regarding the appropriate number of
 layers to use depends on the complexity of the task being performed and the characteristics of the
 dataset being used. According to the obtained results, the performance of CNN remained relatively
 similar when using 6 and 7 layers. MLP, on the other hand, performed slightly better with 7 layers
 than with 6 layers.
+
+<img width="518" alt="Layers vs Accuracy   Losses" src="https://github.com/SharathKumarReddyAlijarla/RAML/assets/122915971/86f93ae0-7be9-41c6-88ed-b9b3836d56a8">
 
 Weight Initialization: HeUniform initialization outperforms GlorotUniform initialization in terms
 of both accuracy and loss.
