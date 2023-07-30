@@ -109,6 +109,7 @@ CNN on the MNIST dataset. Normally, CNN is expected to perform better for image 
 unexpected performance of MLP might be because of the small size of the MNIST images, which are
 only 28x28 pixels.
 
+<img width="471" alt="arch" src="https://github.com/SharathKumarReddyAlijarla/RAML/assets/122915971/393f03af-5026-4dd1-8756-94febc0c6555">
 
 Training vs. Validation Accuracies: Training accuracies are consistently higher than validation
 accuracies.
